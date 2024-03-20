@@ -10,5 +10,5 @@ try {
 } catch(e) {
     console.error(e);
 }
-let db = conn.db("sahasrakesara");
+let db = conn.db("kesaradb");
 export default db;
